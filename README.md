@@ -15,13 +15,6 @@ public class Hello {
 
 |java|c|golang|
 |:---|:---:|---:|
-|jvm[^1]|pointer|coroutine|
+|jvm <mark>[^1]</mark>|pointer|coroutine|
 
 [^1]: hotspot, openjdk
-***
-
-<mark>OK
-
-* 
-* 
-* 
